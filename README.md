@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**javadjafari1/javadjafari1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm an Android Developer working in Mashhad, Iran.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### BIO
+
+- 🏢 I'm currently working at **PartSoftwareGroup**
+- ⚙️ I use daily: `Kotlin`,`gradle`
+- 💅 Currently Technical Lead in [iCup](https://play.google.com/store/apps/details?id=ir.partsoftware.cup) project
+- 🌱 Learning all about **Android World**
+- 💬 Ping me about **Android**, **Gradle**
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/javad-jafarii/), [Email](mailto:javad2147@yahoo.com)
+- ⚡️ Fun fact: I'm a huge fan of Bollywood Movies
