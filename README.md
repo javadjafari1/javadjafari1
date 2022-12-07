@@ -5,7 +5,7 @@
 
 #### BIO
 
-- 🏢 I'm currently working at **PartSoftwareGroup**
+- 🏢 I'm currently working at **[PartSoftwareGroup](https://www.partsoftware.com/)**
 - ⚙️ I use daily: `Kotlin`,`gradle`
 - 💅 Currently Technical Lead in [iCup](https://play.google.com/store/apps/details?id=ir.partsoftware.cup) project
 - 🌱 Learning all about **Android World**
